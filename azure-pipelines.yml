@@ -7,10 +7,6 @@ trigger:
 - main
 
 pool: Azure Pipelines
-Image: windows-latest
-Started: Just now
-Duration: 13s
-
 
 variables:
   buildPlatform: 'Any CPU'
